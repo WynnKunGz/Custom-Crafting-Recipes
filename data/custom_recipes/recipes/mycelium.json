@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#GR",
+        "GGG",
+        "RG#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_mushroom"
+        },
+        "G": {
+            "item": "minecraft:grass_block"
+        },
+        "R": {
+            "item": "minecraft:red_mushroom"
+        }
+    },
+    "result": {
+        "item": "minecraft:mycelium",
+        "count": 5
+    }
+}

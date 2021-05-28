@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "SgS",
+        "g g"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone"
+        },
+        "O": {
+            "item": "minecraft:oak_log"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:bell",
+        "count": 1
+    }
+}
